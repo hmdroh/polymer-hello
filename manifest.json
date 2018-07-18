@@ -1,0 +1,6 @@
+{
+  "name": "PolymerProject",
+  "short_name": "PolymerProject",
+  "start_url": "/",
+  "display": "standalone"
+}
